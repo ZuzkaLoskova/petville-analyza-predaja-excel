@@ -1,0 +1,8 @@
+# Dočasné a zamykacie súbory Excelu
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# Systémové súbory operačných systémov
+.DS_Store
+Thumbs.db
